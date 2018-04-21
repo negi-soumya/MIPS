@@ -1,2 +1,3 @@
 # MIPS
-Some assembly language codes I wrote ( MIPS-32 )
+MIPS-32 Assembly language codes 
+Course:Computer Architecture & Organization 
